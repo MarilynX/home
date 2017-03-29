@@ -1,0 +1,103 @@
+* {
+	border: 1px solid #000000;
+}
+/*Delete the box borders later*/
+
+div.nav {
+	font-family: Oxygen, Raleway, sans-serif;
+	background-color: #a2c4c9;
+	border: 10%, solid, #134f5c;
+	color: #ffffff;
+	padding: 2%;
+	margin-left: 15%;
+	margin-right: 15%;
+	text-align: center;
+}
+
+.heading {
+	font-family: Glegoo, Share Tech Mono, serif;
+	font-weight: bold;
+	text-align: center;
+	color: #ffffff;
+	border: 10%, solid, #a2c4c9;
+	margin-left: 15%;
+	margin-right: 15%;
+	text-align: center;
+}
+
+.text {
+	font-family: Oxygen, Raleway, sans-serif;
+	font-size: 130%;
+	color: #ffffff;
+	padding: 2%;
+	margin-right: 15%;
+	margin-left: 15%;
+}
+
+.question {
+	font-family: Oxygen, Raleway, sans-serif;
+	font-size: 110%;
+	text-align: center;
+	color: #ffffff;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+.answer {
+	font-family: Oxygen, Raleway, sans-serif;
+	font-size: 110%;
+	text-align: center;
+	color: #ffffff;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+#whiteqmrk{ 
+	height: 300px;
+	width: 300px;
+	margin-left: 35%;
+}
+
+#clearqmrk {
+	height: 450px;
+	width: 300px; 
+	margin-left: 40%;
+	background-color: #a2c4c9;
+}
+
+#thnk {
+	margin-left: 40%;
+	background-color: #a2c4c9;
+}
+
+#bubble {
+	margin-left: 40%;
+}
+
+.ref {
+	font-family: Oxygen, Raleway, sans-serif;
+	font-size: 20px;
+	background-color: #a2c4c9;
+}
+
+#bttt {
+	font-family: 'Oxygen', 'Raleway', sans-serif;
+	background-color: #a2c4c9;
+	font-size: 20px;
+	margin: 40%;
+}
+
+ul {
+	font-family: 'Oxygen', 'Raleway', sans-serif;
+	font-size: 130%;
+	color: #ffffff;
+	padding: 2%;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+body {
+	background-color: #134f5c;
+}
+
+
